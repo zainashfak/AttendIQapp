@@ -1,0 +1,14 @@
+<resources>
+    <color name="navy">#0B1426</color>
+    <color name="blue">#7DA2FF</color>
+    <color name="blue_dark">#5D86F0</color>
+    <color name="mint">#173A35</color>
+    <color name="background">#101827</color>
+    <color name="white">#182338</color>
+    <color name="text_primary">#F0F4FF</color>
+    <color name="text_secondary">#A9B5CA</color>
+    <color name="border">#2C3950</color>
+    <color name="danger">#FF8495</color>
+    <color name="warning">#F4BB5E</color>
+    <color name="safe">#6ED5B5</color>
+</resources>
